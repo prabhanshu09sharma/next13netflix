@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '@/app/styles/common.module.css'
+import styles from './styles/Common.module.css'
 
 const loading = () => {
     return (
