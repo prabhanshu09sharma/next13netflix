@@ -26,6 +26,7 @@
 
 .navbarItem {
     height: 100%;
+    margin: 20px;
     display: grid;
     place-items: center;
 }
@@ -101,6 +102,10 @@
 
     .main_header {
         padding: 0 5rem;
+    }
+    
+    .navbarItem {
+        height: 7%;
     }
 
     .mobile-navbar-btn {

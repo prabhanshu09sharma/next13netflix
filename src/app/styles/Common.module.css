@@ -135,6 +135,7 @@
 @media screen and (max-width:768px) {
     .grid_two_section{
         grid-template-columns: 1fr;
+        height: 80rem;
     }
 
     .card_section{
